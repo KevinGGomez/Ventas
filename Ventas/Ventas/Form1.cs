@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Veamos nuestros errores como la oportunidad de conocernos mejor y mejorar como personas");
+            MessageBox.Show("Veamos nuestros errores como la oportunidad, de conocernos mejor y mejorar como personas");
         }
     }
 }
